@@ -11,3 +11,8 @@ p
     font-size: medium;
     text-align: justify;
 }
+
+nav ul li{
+    list-style-type: none;
+    
+}
