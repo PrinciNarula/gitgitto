@@ -5,3 +5,9 @@ body{
 h1{
     color: brown;
 }
+
+p 
+{
+    font-size: medium;
+    text-align: justify;
+}
